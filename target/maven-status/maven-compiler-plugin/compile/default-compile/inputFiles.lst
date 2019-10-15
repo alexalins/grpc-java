@@ -1,0 +1,9 @@
+/home/alexalins/IdeaProjects/grpc-java/target/generated-sources/protobuf/java/alexinha/grpc/HelloResponse.java
+/home/alexalins/IdeaProjects/grpc-java/target/generated-sources/protobuf/java/alexinha/grpc/HelloRequest.java
+/home/alexalins/IdeaProjects/grpc-java/target/generated-sources/protobuf/grpc-java/alexinha/grpc/HelloServiceGrpc.java
+/home/alexalins/IdeaProjects/grpc-java/src/main/java/alexinha/grpc/server/HelloServiceImpl.java
+/home/alexalins/IdeaProjects/grpc-java/target/generated-sources/protobuf/java/alexinha/grpc/HelloServiceOuterClass.java
+/home/alexalins/IdeaProjects/grpc-java/src/main/java/alexinha/grpc/client/GrpcClient.java
+/home/alexalins/IdeaProjects/grpc-java/target/generated-sources/protobuf/java/alexinha/grpc/HelloRequestOrBuilder.java
+/home/alexalins/IdeaProjects/grpc-java/src/main/java/alexinha/grpc/server/GrpcServer.java
+/home/alexalins/IdeaProjects/grpc-java/target/generated-sources/protobuf/java/alexinha/grpc/HelloResponseOrBuilder.java
